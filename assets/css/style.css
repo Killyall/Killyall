@@ -1,0 +1,71 @@
+.container{
+    margin: 0 auto;
+    width: 90%;
+    height: 100%;
+    color: white;
+    text-align: center;
+    background-color: #bbb;
+}
+.one{
+    background-color: green;
+    width: 100px;
+    height: 150px;
+    margin: 25px;
+}
+.two{
+    background-color: yellow;
+    width: 150px;
+    height: 100px;
+    margin: 25px;
+}
+.three{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+}
+.four{
+    background-color: blue;
+    width: 300px;
+    height: 200px;
+    margin: 25px;
+}
+.five{
+    background-color: #80473a;
+    width: 300px;
+    height: 100px;
+    margin: 25px;
+}
+.six{
+    background-color: rgb(34, 95, 34);
+    margin: 25px;
+    height: 100px;
+    width: 200px;
+
+}
+.onee , .twoo, .threee, .fourr, .fivee, .sixx, .seven{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+}
+.onee{
+    background-color: rgb(142, 179, 142);
+}
+.twoo{
+    background-color: rgb(255, 255, 189);
+}
+.threee{
+    background-color: red;
+}
+.fourr{
+    background-color: rgb(142, 170, 212);
+}
+.fivee{
+    background-color: #366330;
+}
+.sixx{
+    background-color: rgb(233, 209, 145);
+}
+.seven{
+    background-color: rgb(69, 24, 110);
+}
